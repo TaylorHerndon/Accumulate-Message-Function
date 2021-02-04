@@ -5,7 +5,7 @@ Option Explicit On
 'RCET0265
 'Spring 2021
 'Accumulate Message Function
-'
+'https://github.com/TaylorHerndon/Accumulate-Message-Function
 
 Module AccumulateMessages
 
